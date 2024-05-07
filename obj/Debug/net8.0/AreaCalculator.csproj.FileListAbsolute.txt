@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\bin\Debug\net8.0\AreaCalculator.exe
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\bin\Debug\net8.0\AreaCalculator.deps.json
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\bin\Debug\net8.0\AreaCalculator.runtimeconfig.json
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\bin\Debug\net8.0\AreaCalculator.dll
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\bin\Debug\net8.0\AreaCalculator.pdb
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\AreaCalculator.dll
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\refint\AreaCalculator.dll
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\AreaCalculator.pdb
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\AreaCalculator.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Developer's materials\UniserITAcademy\ConsoleApp1\AreaCalculator\obj\Debug\net8.0\ref\AreaCalculator.dll
